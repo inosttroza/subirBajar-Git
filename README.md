@@ -31,3 +31,6 @@ Este error ocurre porque una rama local de nuestro repositorio no tiene<br>
 asignada una rama del repositorio remoto. Podremos especificar a qué rama remota<br> 
 corresponde la rama local con el siguiente comando:<br>
   1.1- git branch --set-upstream-to=origin/master master (en caso de error del primer comando git pull)<br>
+  
+ Mas detalles aca:<br>
+ https://david-estevez.gitbooks.io/the-git-the-bad-and-the-ugly/content/es/subir-y-bajar-cambios-a-un-repositorio-remoto.html
