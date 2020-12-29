@@ -23,3 +23,11 @@ Repositorio es solo para pruebas
 11-git commit -m "guardo los cambios copiados desde la rama"<br>
 12-git push -u origin master<br>
 
+# Nota:
+1- git pull (trae los ultimos cambios desde el remoto)<br>
+ *Es posible que git nos muestre un error<br>
+
+Este error ocurre porque una rama local de nuestro repositorio no tiene<br>
+asignada una rama del repositorio remoto. Podremos especificar a qué rama remota<br> 
+corresponde la rama local con el siguiente comando:<br>
+  1.1- git branch --set-upstream-to=origin/master master (en caso de error del primer comando git pull)<br>
