@@ -1,5 +1,5 @@
-# Pruebas
-Repositorio es solo para pruebas
+# Comentarios
+Repositorio de ejemplo para subir y bajar codigos de Git
 
 <h1>Subir a git</h1>
 1-git init(en ruta del proyecto)<br>
