@@ -5,12 +5,12 @@ Repositorio de ejemplo para subir y bajar codigos de Git
 1-git init(en ruta del proyecto)<br>
 2-git add .<br>
 3-git commit -m "Primer commit"<br>
-4-git remote add origin https://github.com/inosttroza/Test.git<br>
+4-git remote add origin https://github.com/inosttroza/subirBajar-Git.git<br>
 5-git push -u origin master<br>
 
 <h1>Bajar de git y luego subir cambios</h1>
 1-git init(en ruta del proyecto)<br>
-2-git clone https://github.com/inosttroza/Test.git<br>
+2-git clone https://github.com/inosttroza/subirBajar-Git.git<br>
 3-git config --global user.name "inosttroza"<br>
 4-git config --global user.email inosttroza@gmail.com<br>
 5-git branch rama1<br>
